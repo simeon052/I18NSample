@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18NSample.Localized", "i18NSample.Localized\i18NSample.Localized.csproj", "{009D2E3A-6040-4D26-88B9-B0F036BDC41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18NSample.Mac", "i18NSample.Mac\i18NSample.Mac.csproj", "{1987A28B-6CD3-4257-A1C8-851E9798700E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i18NSample.MacConsole", "i18NSample.MacConsole\i18NSample.MacConsole.csproj", "{AD662D9E-E66A-4375-9BFC-62E207E87850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009D2E3A-6040-4D26-88B9-B0F036BDC41B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{009D2E3A-6040-4D26-88B9-B0F036BDC41B}.Debug|x86.Build.0 = Debug|Any CPU
+		{009D2E3A-6040-4D26-88B9-B0F036BDC41B}.Release|x86.ActiveCfg = Release|Any CPU
+		{009D2E3A-6040-4D26-88B9-B0F036BDC41B}.Release|x86.Build.0 = Release|Any CPU
+		{1987A28B-6CD3-4257-A1C8-851E9798700E}.Debug|x86.ActiveCfg = Debug|x86
+		{1987A28B-6CD3-4257-A1C8-851E9798700E}.Debug|x86.Build.0 = Debug|x86
+		{1987A28B-6CD3-4257-A1C8-851E9798700E}.Release|x86.ActiveCfg = Release|x86
+		{1987A28B-6CD3-4257-A1C8-851E9798700E}.Release|x86.Build.0 = Release|x86
+		{AD662D9E-E66A-4375-9BFC-62E207E87850}.Debug|x86.ActiveCfg = Debug|x86
+		{AD662D9E-E66A-4375-9BFC-62E207E87850}.Debug|x86.Build.0 = Debug|x86
+		{AD662D9E-E66A-4375-9BFC-62E207E87850}.Release|x86.ActiveCfg = Release|x86
+		{AD662D9E-E66A-4375-9BFC-62E207E87850}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
